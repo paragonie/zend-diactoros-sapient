@@ -1,0 +1,18 @@
+{
+  "name": "paragonie/zend-diactoros-sapient",
+  "description": "Sapient adapter for Zend Framework's Diactoros HTTP implementation",
+  "require": {
+    "php": "^7",
+    "paragonie/sapient": "^0.4",
+    "zendframework/zend-diactoros": "^1.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6",
+    "vimeo/psalm": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "ParagonIE\\Sapient\\Adapter\\": "src"
+    }
+  }
+}
