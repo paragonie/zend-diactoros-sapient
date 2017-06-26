@@ -8,7 +8,7 @@
 Requirements:
 
 * PHP 7+
-* Zend\Diactorors 1.4+
+* Zend\Diactoros 1.4+
 
 Allows you to use [Sapient](https://github.com/paragonie/sapient) with the HTTP objects provided by
 [Zend\Diactoros](https://github.com/zendframework/zend-diactoros).
