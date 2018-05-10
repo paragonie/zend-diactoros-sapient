@@ -1,6 +1,7 @@
 {
   "name": "paragonie/zend-diactoros-sapient",
   "description": "Sapient adapter for Zend Framework's Diactoros HTTP implementation",
+  "license": "MIT",
   "require": {
     "php": "^7",
     "paragonie/sapient": "^0.4",
