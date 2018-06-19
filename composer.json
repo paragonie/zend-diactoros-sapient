@@ -4,7 +4,7 @@
   "license": "MIT",
   "require": {
     "php": "^7",
-    "paragonie/sapient": "^0.4",
+    "paragonie/sapient": "^0.4 || ^1",
     "zendframework/zend-diactoros": "^1.4"
   },
   "require-dev": {
